@@ -1,25 +1,18 @@
 <!-- 💎 Jaya Vishal's GitHub Profile README 💎 -->
-
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a3f8bcd04.gif">
-
-<h1 align="center">👋 Hey there, I'm <span style="color:#00BFFF;">Jaya Vishal</span></h1>
+<h1 align="center">👋 Hey there, I'm Jaya Vishal</h1>
 <h3 align="center">🚀 Full Stack Developer | ☁️ Cloud & AI Enthusiast | 🎓 B.Tech IT @ VIT</h3>
 
----
 
 ## 🧑🏻‍🎓 About Me  
 
-I'm a **pre-final year Information Technology student at Vellore Institute of Technology (VIT)** with a **CGPA of 9.1**.  
+I'm a **final year Information Technology student at Vellore Institute of Technology (VIT)** with a **CGPA of 9.1**.  
 I’m passionate about developing **intelligent, scalable web and AI systems** that solve real-world problems.  
 
 💡 **What defines me:**  
 - ⚙️ Building full-stack apps with real-world impact  
 - ☁️ Deploying and optimizing ML models on cloud platforms  
 - 🧠 Exploring AI systems that enhance productivity and user experience  
-
-🎯 **Currently Working On:**    
-- 🌐 *NexumRise* — AI-powered social media platform with auto content generation  
-- 🩺 *AWS Cloud Medical Analysis* — Real-time pneumonia detection from chest X-rays  
 
 ---
 
@@ -30,40 +23,29 @@ I’m passionate about developing **intelligent, scalable web and AI systems** t
 </p>
 
 ---
-
-## 💼 Featured Projects  
-
-### 🧑‍💻 **Distributed Collaborative IDE**
+ 
+## 💼 Featured Projects
+ 
+### 🧑‍💻 Real-Time Collaborative IDE
 > 💻 [GitHub](https://github.com/JayaVishal23/Collaborative-IDE)
-
-Engineered a **real-time distributed collaborative IDE** supporting **simultaneous code editing** with **eventual consistency** and **zero merge conflicts**.  
-
-
-**Tech Stack:** React · Node.js · WebSockets · Yjs · Monaco Editor 
-
+ 
+A Google-Docs-style code editor where multiple people edit the same file at once — conflict-free merging via CRDTs, plus sandboxed execution so you can actually run the code you write together.
+**Tech:** React · Monaco · Yjs · Node.js · PostgreSQL · Docker
+ 
+### 🤖 Autonomous PostgreSQL Query Optimizer Agent
+> 💻 [GitHub](https://github.com/JayaVishal23/sql-optimizer-agent)
+ 
+A multi-step LangGraph agent that inspects slow SQL queries, reasons about what's actually hurting them, and recommends fixes — all running on a local LLM, so nothing leaves the machine.
+**Tech:** Python · LangGraph · Ollama · PostgreSQL
+ 
+### 🐦 Indian Bird Call Classifier
+> 🔗 [Live Demo](https://huggingface.co/spaces/JayaVishal23/bird-call-classifier) · [GitHub](https://github.com/JayaVishal23/bird-call-classifier)
+ 
+Identifies Indian bird species from their calls using mel-spectrograms and a lightweight feature-extraction pipeline. Live and playable on Hugging Face Spaces.
+**Tech:** Python · TensorFlow · scikit-learn · Hugging Face
+ 
 ---
-
-### 🩺 **AWS Cloud-based Medical Image Analysis Platform**
-> 🌐 [GitHub](https://github.com/JayaVishal23/AWS-Cloud-based-Medical-Image-Analysis-Platform)
-
-Built a cloud-native AI system to **detect pneumonia from chest X-rays** with **90% accuracy** using optimized CNNs.  
-Deployed a scalable inference API on **AWS (S3, EC2, CloudFront, SageMaker)** to handle 50+ users with **40% lower latency**.  
-
-**Tech Stack:** ReactJS · Node.js · Express.js · Python · AWS (S3, EC2, SageMaker, DynamoDB, CloudFront, Cognito)
-
----
-
-### 🌐 **NexumRise – AI-Powered Social Networking Platform**
-> 🔗 [Live Demo](https://vmedia-l58s.onrender.com) | [GitHub](https://github.com/JayaVishal23/social-media-app)
-
-An **AI-driven MERN social platform** that auto-generates posts cutting post creation time to **<30 seconds**.  
-Enhanced engagement and user retention through intelligent content recommendations.  
-
-**Tech Stack:** ReactJS · Node.js · Express.js · MongoDB · JavaScript · CSS
-
----
-
-
+ 
 ## 🏆 Achievements  
 
 - 🏅 CGPA: **9.1** at VIT 
